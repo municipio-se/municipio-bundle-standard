@@ -1,6 +1,7 @@
 {
   "name": "municipio/municipio-bundle-standard",
   "description": "Bundled plugins for a standard setup of Wordpress with Municipio",
+  "license": "MIT",
   "authors": [
     {
       "name": "Whitespace",
