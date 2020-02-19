@@ -1,0 +1,23 @@
+{
+  "name": "municipio/municipio-bundle-standard",
+  "description": "Bundled plugins for a standard setup of Wordpress with Municipio",
+  "authors": [
+    {
+      "name": "Whitespace",
+      "homepage": "https://www.whitespace.se/"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "config": {
+    "sort-packages": true
+  },
+  "require": {
+    "helsingborg-stad/municipio": "1.30.3",
+    "rarst/update-blocker": "^1.1"
+  }
+}
