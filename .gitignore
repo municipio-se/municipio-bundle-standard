@@ -1,0 +1,8 @@
+# Vendor directories
+/wordpress/*
+/wp-content/*
+/vendor
+
+# Operating system files
+.DS_Store
+composer.lock
