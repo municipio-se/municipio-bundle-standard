@@ -1,6 +1,6 @@
 # Municipio Bundle Standard
 
-Bundled plugins for a standard setup of Wordpress with Municipio
+Bundled plugins for a standard setup of Wordpress with Municipio.
 
 ## Main plugins
 
@@ -13,6 +13,8 @@ https://github.com/composer/installers
 The Wordpress Composer Package, by Roots.
 
 https://roots.io/announcing-the-roots-wordpress-composer-package/
+
+About bedrock
 https://github.com/roots/bedrock
 
 ### Update blocker
@@ -21,6 +23,20 @@ A lightweight generic blocker of plugin, theme, and core updates from official W
 https://github.com/Rarst/update-blocker
 
 ## Helsingborg Stad
+
+### Modularity
+Modular component system plugin for WordPress. Drag and drop the bundled modules or your custom modules to your page layout.
+
+https://github.com/helsingborg-stad/modularity
+
+### Modularity Form Builder
+Simple form builder that uses ACF for forms.
+
+https://github.com/helsingborg-stad/modularity-form-builder
+
+### Municipio
+Base theme for municipio
+https://github.com/helsingborg-stad/municipio
 
 ### AcfExportManager
 Allows to automatically export specified ACF fields on save.
@@ -35,7 +51,7 @@ https://github.com/helsingborg-stad/acf-ux-collapse
 ### Event Manager Integration
 Intragration with event-api for WordPress
 
-Import and display events from Event Manager API, https://github.com/helsingborg-stad/api-event-manager
+Import and display events from Event Manager API, https://github.com/helsingborg-stad/api-event-manager.
 
 https://github.com/helsingborg-stad/api-event-manager-integration
 
@@ -74,26 +90,12 @@ Forces the editor to use https urls.
 
 https://github.com/helsingborg-stad/force-ssl
 
-### lix-calculator
+### LIX-calculator
 Räknar ut lix-värde på texter i huvudytan för ett inlägg.
 
 https://github.com/helsingborg-stad/lix-calculator
 
-### modularity
-Modular component system plugin for WordPress. Drag and drop the bundled modules or your custom modules to your page layout.
-
-https://github.com/helsingborg-stad/modularity
-
-### Modularity Form Builder
-Simple form builder that uses ACF for forms.
-
-https://github.com/helsingborg-stad/modularity-form-builder
-
-### Municipio
-Base theme for municipio
-https://github.com/helsingborg-stad/municipio
-
-### readspeaker-helper
+### Readspeaker helper
 A helper which will help you include the ReadSpeaker.com readspeaker solution to you WordPress site.
 
 https://github.com/helsingborg-stad/readspeaker-helper
@@ -104,6 +106,11 @@ https://github.com/helsingborg-stad/readspeaker-helper
 Use the Advanced Custom Fields plugin to take full control of your WordPress edit screens & custom field data.
 
 https://wordpress.org/plugins/advanced-custom-fields/
+
+### Nested Pages
+Provides a simple & intuitive drag and drop interface for managing your page structure and post ordering
+
+https://wordpress.org/plugins/wp-nested-pages/
 
 ### Redirection
 Easily manage 301 redirections, keep track of 404 errors, and generally tidy up any loose ends your site may have.
@@ -124,11 +131,6 @@ https://wordpress.org/plugins/user-switching/
 WP Mail SMTP reconfigures WordPress to use a SMTP provider when sending emails.
 
 https://wordpress.org/plugins/wp-mail-smtp/
-
-### Nested Pages
-Provides a simple & intuitive drag and drop interface for managing your page structure and post ordering
-
-https://wordpress.org/plugins/wp-nested-pages/
 
 ## To be removed?
 
