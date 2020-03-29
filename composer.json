@@ -18,6 +18,7 @@
   "config": {
     "sort-packages": true
   },
+  "minimum-stability": "dev",
   "require": {
     "composer/installers": "^1.8",
     "helsingborg-stad/acf-export-manager": "^1.0",
