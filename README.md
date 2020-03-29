@@ -9,14 +9,6 @@ A multi-framework Composer library installer.  It will install their package to 
 
 https://github.com/composer/installers
 
-### WordPress core
-The Wordpress Composer Package, by Roots.
-
-https://roots.io/announcing-the-roots-wordpress-composer-package/
-
-About bedrock
-https://github.com/roots/bedrock
-
 ### Update blocker
 A lightweight generic blocker of plugin, theme, and core updates from official WordPress repositories.
 
