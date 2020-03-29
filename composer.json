@@ -43,6 +43,6 @@
     "wpackagist-plugin/user-switching": "^1.5",
     "wpackagist-plugin/wordpress-importer": "0.6.3",
     "wpackagist-plugin/wp-mail-smtp": "^1.8",
-    "wpackagist-plugin/wp-nested-pages": "^3.1"
+    "wpackagist-plugin/wp-nested-pages": "^3.1.8"
   }
 }
