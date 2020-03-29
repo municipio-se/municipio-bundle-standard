@@ -135,8 +135,3 @@ https://wordpress.org/plugins/mce-table-buttons/
 The WordPress Importer can import content from a WordPress export file.
 
 https://wordpress.org/plugins/wordpress-importer/
-
-### WP Editor Widget
-Adds a rich text widget where the content is edited using the standard WordPress visual editor.
-
-https://wordpress.org/plugins/wp-editor-widget/
