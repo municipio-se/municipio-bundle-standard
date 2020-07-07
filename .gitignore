@@ -2,6 +2,7 @@
 /wordpress/*
 /wp-content/*
 /vendor
+node_modules
 
 # Operating system files
 .DS_Store

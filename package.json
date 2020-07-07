@@ -1,0 +1,14 @@
+{
+  "name": "@municipio/bundle-standard",
+  "version": "2.0.0",
+  "description": "Bundled plugins for a standard setup of Wordpress with Municipio",
+  "repository": "git@github.com:municipio-se/municipio-bundle-standard.git",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.{js,json,md,yml}'"
+  }
+}
