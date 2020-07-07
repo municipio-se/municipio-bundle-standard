@@ -11,6 +11,13 @@ the correct location based on the specified package type.
 
 https://github.com/composer/installers
 
+### Disable All WordPress Updates
+
+Disables the theme, plugin and core update checking, the related cronjobs and
+notification system.
+
+https://wordpress.org/plugins/disable-wordpress-updates/
+
 ## Helsingborg Stad
 
 ### Modularity
