@@ -136,13 +136,6 @@ any loose ends your site may have.
 
 https://wordpress.org/plugins/redirection/
 
-### Stream
-
-Every logged-in user action is displayed in an activity stream and organized for
-easy filtering by User, Role, Context, Action or IP address.
-
-https://wordpress.org/plugins/stream/
-
 ### User switching
 
 This plugin allows you to quickly swap between user accounts

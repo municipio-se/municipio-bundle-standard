@@ -38,7 +38,6 @@
     "wpackagist-plugin/disable-wordpress-updates": "^1.6",
     "wpackagist-plugin/mce-table-buttons": "^3.3",
     "wpackagist-plugin/redirection": "^4.7",
-    "wpackagist-plugin/stream": "^3.4",
     "wpackagist-plugin/user-switching": "^1.5",
     "wpackagist-plugin/wordpress-importer": "^0.7.0",
     "wpackagist-plugin/wp-editor-widget": "^0.6.0",
