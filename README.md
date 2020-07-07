@@ -11,13 +11,6 @@ the correct location based on the specified package type.
 
 https://github.com/composer/installers
 
-### Update blocker
-
-A lightweight generic blocker of plugin, theme, and core updates from official
-WordPress repositories.
-
-https://github.com/Rarst/update-blocker
-
 ## Helsingborg Stad
 
 ### Modularity
