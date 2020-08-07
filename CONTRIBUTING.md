@@ -28,10 +28,10 @@ package.json file and update CHANGELOG.md
 
 ## Node modules
 
-Use Yarn to manage Node module dependencies. Since this package is metapackage,
-no JS code will be actually be used by the consumer so Node modules are only dev
-dependencies, e.g. Prettier for code formatting. This repository will not be
-published on NPM
+Use Yarn to manage Node module dependencies. Since this package is a
+metapackage, no JS code will be actually be used by the consumer so Node modules
+are only dev dependencies, e.g. Prettier for code formatting. This repository
+will not be published on NPM
 
 ## Code formatting
 
