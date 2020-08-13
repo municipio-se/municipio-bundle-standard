@@ -13,6 +13,11 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:whitespace-se/Municipio.git",
+      "no-api": true
     }
   ],
   "config": {
@@ -34,7 +39,7 @@
     "helsingborg-stad/lix-calculator": "^2.1",
     "helsingborg-stad/modularity": "^2.12",
     "helsingborg-stad/modularity-form-builder": "^1.8",
-    "helsingborg-stad/municipio": "1.33.6",
+    "helsingborg-stad/municipio": "dev-a11y",
     "helsingborg-stad/readspeaker-helper": "^2.0",
     "wpackagist-plugin/disable-comments": "1.10.3",
     "wpackagist-plugin/disable-gutenberg": "2.2",
