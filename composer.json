@@ -36,7 +36,7 @@
     "helsingborg-stad/modularity-form-builder": "^1.8",
     "helsingborg-stad/municipio": "1.33.6",
     "helsingborg-stad/readspeaker-helper": "^2.0",
-    "wpackagist-plugin/disable-comments": "1.10.3",
+    "wpackagist-plugin/disable-comments": "^1.11.0",
     "wpackagist-plugin/disable-gutenberg": "2.2",
     "wpackagist-plugin/disable-wordpress-updates": "^1.6",
     "wpackagist-plugin/mce-table-buttons": "^3.3",
