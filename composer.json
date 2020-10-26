@@ -19,6 +19,10 @@
       "type": "vcs",
       "url": "git@github.com:whitespace-se/Municipio.git",
       "no-api": true
+    },
+    {
+        "type": "vcs",
+        "url": "git@github.com:whitespace-se/Modularity.git"
     }
   ],
   "config": {
@@ -38,7 +42,7 @@
     "helsingborg-stad/customer-feedback": "~2.2.0",
     "helsingborg-stad/force-ssl": "~1.0.0",
     "helsingborg-stad/lix-calculator": "~2.1.0",
-    "helsingborg-stad/modularity": "~2.12.0",
+    "helsingborg-stad/modularity": "dev-feature/module-in-module",
     "helsingborg-stad/modularity-form-builder": "~1.9.0",
     "helsingborg-stad/municipio": "dev-a11y",
     "helsingborg-stad/readspeaker-helper": "~2.0.0",
