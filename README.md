@@ -102,7 +102,7 @@ https://github.com/helsingborg-stad/force-ssl
 
 ### LIX-calculator
 
-Räknar ut lix-värde på texter i huvudytan för ett inlägg.
+Calculates the LIX-value on text content in the main area of a post.
 
 https://github.com/helsingborg-stad/lix-calculator
 
